@@ -1,0 +1,15 @@
+1527830755689	geckodriver	INFO	geckodriver 0.20.1
+1527830755693	geckodriver	INFO	Listening on 127.0.0.1:40723
+1527830756702	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.ufaSMkWH1nvu"
+1527830759965	Marionette	INFO	Listening on port 33091
+1527830760014	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 4729, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-SqrJ_m/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 4539, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-SqrJ_m/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1527929076450	geckodriver	INFO	geckodriver 0.20.1
+1527929076478	geckodriver	INFO	Listening on 127.0.0.1:60237
+1527929077465	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.YpDL3MAe3axD"
+1527929081482	Marionette	INFO	Listening on port 45983
+1527929081582	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
